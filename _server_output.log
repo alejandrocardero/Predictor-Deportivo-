@@ -1,0 +1,16 @@
+
+> pronosticos-deportivos-ia@0.0.0 dev
+> tsx server.ts
+
+◇ injected env (5) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+Express server running at http://0.0.0.0:3000
+[WC-Sync] Next daily sync scheduled in 300 minutes
+[WC-Sync] Live polling started (30s interval)
+Fetching from ESPN scraper as fallback...
+ESPN scraper returned 39 matches
+Fetching from ESPN scraper as fallback...
+ESPN scraper returned 39 matches
+Fetching from ESPN scraper as fallback...
+ESPN scraper returned 39 matches
+Fetching from ESPN scraper as fallback...
+ESPN scraper returned 39 matches

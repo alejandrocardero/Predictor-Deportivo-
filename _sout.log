@@ -1,0 +1,40 @@
+◇ injected env (5) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+Express server running at http://0.0.0.0:3000
+[WC-Sync] Next daily sync scheduled in 1283 minutes
+[WC-Sync] Live polling started (30s interval)
+[2m6:27:20[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mserver.ts[22m
+[2m6:27:58[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mserver.ts[22m
+[2m6:33:19[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mserver.ts[22m
+[2m6:33:25[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mserver.ts[22m
+[2m16:53:21[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/routes/upcomingMatches.ts[22m
+[2m16:53:57[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/routes/activeMarkets.ts[22m
+[2m16:55:26[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/services/predictiveEngine.ts[22m
+Fetching from ESPN scraper as fallback...
+ESPN scraper returned 125 matches
+[2m17:26:07[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/services/dataScraper.ts[22m
+Fetching from ESPN scraper as fallback...
+[2m17:26:32[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/services/dataScraper.ts[22m
+ESPN scraper returned 132 matches
+Fetching from ESPN scraper as fallback...
+ESPN scraper returned 132 matches
+Fetching from ESPN scraper as fallback...
+ESPN scraper returned 132 matches
+Fetching from ESPN scraper as fallback...
+ESPN scraper returned 132 matches
+[2m17:27:19[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/services/dataScraper.ts[22m
+Fetching from ESPN scraper as fallback...
+ESPN scraper returned 132 matches
+Fetching from ESPN scraper as fallback...
+ESPN scraper returned 132 matches
+Fetching from ESPN scraper as fallback...
+ESPN scraper returned 100 matches
+Fetching from ESPN scraper as fallback...
+ESPN scraper returned 100 matches
+Fetching from ESPN scraper as fallback...
+ESPN scraper returned 100 matches
+[WC-Sync] Next daily sync scheduled in 767 minutes
+[WC-Sync] Next daily sync scheduled in 1012 minutes
+Fetching from ESPN scraper as fallback...
+Fetching from ESPN scraper as fallback...
+ESPN scraper returned 0 matches
+ESPN scraper returned 0 matches

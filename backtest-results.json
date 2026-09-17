@@ -1,0 +1,41 @@
+{
+  "totalPredictions": 5,
+  "brierScore": 0.20175510800000002,
+  "logLoss": 0.5944291133347059,
+  "roi": 1224.4184012594012,
+  "clv": 11.027,
+  "calibrationCurve": [
+    {
+      "predicted": 0.4626666666666666,
+      "actual": 0.6666666666666666
+    },
+    {
+      "predicted": 0.6291,
+      "actual": 1
+    }
+  ],
+  "accuracyByEdge": [
+    {
+      "edgeRange": "0-3%",
+      "accuracy": 0,
+      "count": 0
+    },
+    {
+      "edgeRange": "3-5%",
+      "accuracy": 0,
+      "count": 0
+    },
+    {
+      "edgeRange": "5-10%",
+      "accuracy": 1,
+      "count": 1
+    },
+    {
+      "edgeRange": "10%+",
+      "accuracy": 0,
+      "count": 0
+    }
+  ],
+  "sharpRatio": 0,
+  "maxDrawdown": 0
+}

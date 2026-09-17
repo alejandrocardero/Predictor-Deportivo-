@@ -1,0 +1,1 @@
+@Powershell -NoProfile -ExecutionPolicy Bypass -Command "Start-Process -FilePath 'tsx' -ArgumentList 'server.ts' -WorkingDirectory 'D:\Proyectos\pronósticos-deportivos-ia'"

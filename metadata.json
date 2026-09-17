@@ -1,0 +1,6 @@
+{
+  "name": "Pronósticos Deportivos IA",
+  "description": "Premium Sports Prediction and AI Analytics Platform featuring real-time stats, odds comparison, interactive market breakdowns, and custom AI analysis reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
